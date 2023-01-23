@@ -1,11 +1,11 @@
 # Rubiks-cube-solver
-This is a 3×3 Rubic Cube solving web application
+This project is a rubik's cube solver built using opencv and flask web framework
 
-Features: Manual Color Calibration, Manual six sides inputs, User friendly graphical solving steps
+Color detection: Done using Opencv
 
-Solving Algorithm : Kociemba's two-phase algorithm
+Solving the algorithm: Koceimba algorithm
 
-Web App Stack : Flask micro web framework
+Application built : Flask micro web framework
 
 
 Below given the screenshots of the application:
